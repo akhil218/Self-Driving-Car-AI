@@ -1,6 +1,6 @@
 # AI-For-Self-Driving-Car
 
-* Detailed explanation and a case study of the complete AI is given in the [Detailed Explanation](https://https://github.com/akhil218/Self-Driving-Car-AI/tree/main/Detailed%20Explanation%20of%20Self%20Driving%20Car%20AI) folder
+* Detailed explanation and a case study of the complete AI is given in the [Detailed Explanation](https://github.com/akhil218/Self-Driving-Car-AI/tree/main/Detailed%20Explanation%20of%20Self%20Driving%20Car%20AI) folder
 
 ## Sample Installation Instructions - 
 
